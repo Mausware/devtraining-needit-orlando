@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="DELETE" field="u_what_needed" table="x_58872_needit_needit" version="3">
+        <sys_choice_set action="DELETE">
+            <element>u_what_needed</element>
+            <name>x_58872_needit_needit</name>
+            <sys_class_name/>
+            <sys_created_by/>
+            <sys_created_on/>
+            <sys_id/>
+            <sys_mod_count/>
+            <sys_name/>
+            <sys_package/>
+            <sys_policy/>
+            <sys_scope/>
+            <sys_update_name/>
+            <sys_updated_by/>
+            <sys_updated_on>2020-08-05 14:47:56</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application/>
+        <file_path/>
+        <instance_id>e5778759db301c9c566750b6f496190c</instance_id>
+        <instance_name>dev103516</instance_name>
+        <name>sys_choice_x_58872_needit_needit_u_what_needed</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="DELETE" field="u_what_needed" table="x_58872_needit_needit" version="3"><sys_choice_set action="DELETE"><element>u_what_needed</element><name>x_58872_needit_needit</name><sys_class_name/><sys_created_by/><sys_created_on/><sys_id/><sys_mod_count/><sys_name/><sys_package/><sys_policy/><sys_scope/><sys_update_name/><sys_updated_by/><sys_updated_on>2020-08-05 14:47:56</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>-429457270</payload_hash>
+        <record_name>Task.u_what_needed</record_name>
+        <reverted_from/>
+        <source>6c1540802f6e9010da6df5ecf699b635</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>matthias.maus@yahoo.de</sys_created_by>
+        <sys_created_on>2020-08-05 14:47:56</sys_created_on>
+        <sys_id>320e440c2f6e9010da6df5ecf699b602</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>173bf17d4150000001</sys_recorded_at>
+        <sys_updated_by>matthias.maus@yahoo.de</sys_updated_by>
+        <sys_updated_on>2020-08-05 14:47:56</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>ba0e440c996e901039623bda68410701</update_guid>
+        <update_guid_history>ba0e440c996e901039623bda68410701:-429457270,360e040c536e9010afc9a31465ffd4fe:-915848390,720e040c856e9010e0e7e67b7655b1fb:-567701384,be0e040ceb6e90106d8a1b68cc2281f7:-1423691141,fa0e040c0c6e90107140c8d1843053f4:-709049971,3a0e040ce06e9010b013d6b06b7a06f1:-1389990280,660e040c746e9010a81d1753e33192ee:221069324,620e040c176e9010399f979bdcf8a8eb:115963504,6e0e040cbf6e90108ce1aa92db7ca7e7:-495418659,9c05c844276e90107b1a9e7b32007527:0,47e484441e6e90109b689500d69767ab:772547475,0be48444d86e9010a9fff8eb566088a7:-915848390,c7e48444a06e90105cd198a886a14fa4:-567701384,87e48444066e901061af770c7961dfa1:-1423691141,47e48444cd6e9010e7e8f3151c21009e:-709049971,36e48444b96e9010811932f50a02dd9b:-1389990280,f2e48444086e9010ddee26fdfc421c98:221069324,b2e48444096e9010ae24cfb96bd89495:115963504,72e48444fa6e9010206453fe1638b092:-495418659,a2273f3fd81e9010a0685e3dfd9f8b17:0,0f173b3f941e90107b6809d081f89fcd:-429457270,c7173b3faa1e9010e9a5c427611179ca:-915848390,47173b3f761e9010ecd7d45a0d5f08c7:367156690,c3173b3ff31e90107f455acb369c42c4:-1223568115,43173b3ff51e9010b6009ac2ca0c6ec1:1500617887,cf173b3f971e9010e9b9073de108e9bd:1827197514,4f173b3f011e9010bac09541928381ba:-2088659708,28dca3b7ab1e90104000d48248a43205:0,2fbc6f77931e9010ce472eb1e0a7c3ac:-1214855425,afbc6f778c1e9010bc3ddb77556b90a8:-915848390,2fbc6f77481e9010b248603bf18b33a5:-567701384,abbc6f77b11e9010410c7e4d0fc516a2:-1423691141,2bbc6f77831e9010d2a8dc797499c29f:-709049971,a7bc6f779b1e901074d48e4dc8ee6a9c:-1389990280,27bc6f77991e90101db0eaffbba52d99:221069324,a3bc6f77d31e901026f1751b250d5296:115963504,13bc6f77961e90105388064414bac093:-495418659,555c877355da9010284227377b12c0de:0,694cc3731eda901089a99033cfd580e8:105676161,e94cc37343da9010f0f659492faef7e4:-915848390,694cc37340da9010186d1887c1c595e1:-567701384,e54cc373bfda901098bfaaa5038dfdde:-1423691141,554cc373b5da90106e221b7d1c7e2ddb:-709049971,d14cc373c5da90108fa9a78e70f76ed8:-1389990280,514cc373f1da901054b30bd26b2404d5:221069324,dd4cc3739bda90109f37e3b4b9b0dfd1:115963504,5d4cc373d9da9010f5de6d35ffaaaace:-495418659,d5c2223bb75a9010c4d4dda557775712:0,a6b26ef71c5a901040231741fbdb8acb:1512800295,2ab26ef7795a9010804531ac85a7a4c7:-915848390,eeb26ef74a5a9010debca6ee7261beb7:-567701384,5eb26ef79f5a9010f85a590e4f9971b4:-1423691141,dab26ef7895a9010bee1478f9de8dcb1:-709049971,5ab26ef77e5a90102a79b22c991b20ae:-1389990280,12b26ef78e5a901062a20b7339d6e19f:221069324,9eb26ef7a55a9010090391bfa3e8569b:115963504,1eb26ef79d5a901059a7cc6e50a65e98:-495418659,2f70c72757529010bb0355c6ac2f0a4e:0,e8700727f2529010a7f90a6642ad908a:-429457270,a4700727b55290108044f9d821ebd787:1264701252,247007275f5290103038c83b519c2984:-1001554480,a07007278f529010650c316f35d64281:1291032590,20700727be529010f00e7a96989e087e:1977964177,ac700727d45290107e0b40c36a15df7a:-1752887133,2c7007279652901065b9939da8cc8d77:103642638,a8700727485290102770434c66710e74:2515242,525c5d93451650109dd506dd121148e2:-1460202391</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>matthias.maus@yahoo.de</sys_created_by>
+        <sys_created_on>2020-08-05 14:48:08</sys_created_on>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>a81e840c2f6e9010da6df5ecf699b6c3</sys_id>
+        <sys_metadata>a81e840c2f6e9010da6df5ecf699b6c3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_what_needed</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_choice_x_58872_needit_needit_u_what_needed</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_58872_needit_needit_u_what_needed">320e440c2f6e9010da6df5ecf699b602</sys_update_version>
+        <sys_updated_by>matthias.maus@yahoo.de</sys_updated_by>
+        <sys_updated_on>2020-08-05 14:48:08</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
